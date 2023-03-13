@@ -1,0 +1,2 @@
+FX_SELL=0.0
+FX_BUY=0.0
